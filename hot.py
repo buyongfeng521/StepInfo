@@ -31,7 +31,7 @@ class Spider:
 
 		return html
 
-# 微博Model
+# 通用Model
 class WeiBoModel:
 	def __init__(self,url,index,title,note):
 	    self.url = url
